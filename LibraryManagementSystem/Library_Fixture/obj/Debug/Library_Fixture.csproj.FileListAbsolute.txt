@@ -1,0 +1,14 @@
+D:\Deependra\Library\LibraryManagementSystem\Library_Fixture\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Deependra\Library\LibraryManagementSystem\Library_Fixture\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Deependra\Library\LibraryManagementSystem\Library_Fixture\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Deependra\Library\LibraryManagementSystem\Library_Fixture\bin\Debug\Library_Fixture.dll
+D:\Deependra\Library\LibraryManagementSystem\Library_Fixture\bin\Debug\Library_Fixture.pdb
+D:\Deependra\Library\LibraryManagementSystem\Library_Fixture\bin\Debug\Library.dll
+D:\Deependra\Library\LibraryManagementSystem\Library_Fixture\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Deependra\Library\LibraryManagementSystem\Library_Fixture\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Deependra\Library\LibraryManagementSystem\Library_Fixture\bin\Debug\Library.pdb
+D:\Deependra\Library\LibraryManagementSystem\Library_Fixture\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Deependra\Library\LibraryManagementSystem\Library_Fixture\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Deependra\Library\LibraryManagementSystem\Library_Fixture\obj\Debug\Library_Fixture.csprojResolveAssemblyReference.cache
+D:\Deependra\Library\LibraryManagementSystem\Library_Fixture\obj\Debug\Library_Fixture.dll
+D:\Deependra\Library\LibraryManagementSystem\Library_Fixture\obj\Debug\Library_Fixture.pdb
