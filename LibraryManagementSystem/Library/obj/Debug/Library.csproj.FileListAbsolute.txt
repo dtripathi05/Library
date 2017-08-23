@@ -3,3 +3,8 @@ D:\Deependra\Library\LibraryManagementSystem\Library\bin\Debug\Library.pdb
 D:\Deependra\Library\LibraryManagementSystem\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
 D:\Deependra\Library\LibraryManagementSystem\Library\obj\Debug\Library.dll
 D:\Deependra\Library\LibraryManagementSystem\Library\obj\Debug\Library.pdb
+D:\Deependra\Library\Library\LibraryManagementSystem\Library\bin\Debug\Library.dll
+D:\Deependra\Library\Library\LibraryManagementSystem\Library\bin\Debug\Library.pdb
+D:\Deependra\Library\Library\LibraryManagementSystem\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+D:\Deependra\Library\Library\LibraryManagementSystem\Library\obj\Debug\Library.dll
+D:\Deependra\Library\Library\LibraryManagementSystem\Library\obj\Debug\Library.pdb

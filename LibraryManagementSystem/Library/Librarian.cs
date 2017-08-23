@@ -9,7 +9,14 @@ namespace Library
         
         public void IssueBook(Book book)
         {
-            IssuedBooks.Add(book);
+
+            if (book.BookCount != 0)
+            {
+                IssuedBooks.Add(book);
+                book.BookCount -= 1;
+            }
+            else
+                throw new BookNotAvailable("book is not available");
         }
         public List<Book> GetIssuedBooks()
         {
